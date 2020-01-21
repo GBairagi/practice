@@ -1,4 +1,7 @@
 class AB
 {
-//some code
+public static void main(String gg[])
+{
+System.out.println("Hellow world");
+}
 }
